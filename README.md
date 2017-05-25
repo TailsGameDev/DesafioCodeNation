@@ -1,2 +1,3 @@
-# python-candidato-1
+# Desafios Python
+
 Simulação do ambiente de testes
