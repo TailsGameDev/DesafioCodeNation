@@ -11,7 +11,8 @@ Para iniciar o teste, em seu computador basta executar:
 	git clone git@github.com:thecodenation/python-candidato-seulogin.git
 	cd python-candidato-seulogin
 
-Sendo o **seulogin** nos comandos acima o seu login do Github, o mesmo que consta na URL desta página.
+**OBS**: O **seulogin** nos comandos acima o seu login do Github, o mesmo que consta na URL desta página.
+**OBS**: caso não tenha configurado o acesso ao Github usando chaves SSH você pode ter erros ao fazer o comando *git clone*. Caso isto ocorra você pode seguir [esta documentação](https://help.github.com/articles/connecting-to-github-with-ssh/) ou alterar o comando para *git clone https://github.com/thecodenation/python-candidato-seulogin.git* e digitar o seu usuário/senha a cada comando do Git.
 
 Para visualizar todas as *branches* com os desafios:
 
