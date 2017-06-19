@@ -8,8 +8,10 @@ Os desafios estão dispostos em *branches* separadas e para cada um existe um *p
 
 Para iniciar o teste, em seu computador basta executar:
 
-	git clone git@github.com:thecodenation/python-candidato-seu-login.git
-	cd python-candidato-seu-login
+	git clone git@github.com:thecodenation/python-candidato-seulogin.git
+	cd python-candidato-seulogin
+
+Sendo o **seulogin** nos comandos acima o seu login do Github, o mesmo que consta na URL desta página.
 
 Para visualizar todas as *branches* com os desafios:
 
